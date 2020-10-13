@@ -80,6 +80,7 @@ Please see LICENSE_EE.txt for the full text of the MEE License or visit https://
 
 To connect with Magento and the Community, join us on the [Magento Community Engineering Slack](https://magentocommeng.slack.com). If you are interested in joining Slack, or a specific channel, send us a request at [engcom@adobe.com](mailto:engcom@adobe.com) or [self signup](https://opensource.magento.com/slack).
 
+--------
 
 We have channels for each project. These channels are recommended for new members:
 
