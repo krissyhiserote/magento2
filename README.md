@@ -15,6 +15,8 @@
     </a>
 </p>
 
+---------------
+
 ## Welcome
 Welcome to Magento 2 installation! We're glad you chose to install Magento 2, a cutting-edge, feature-rich eCommerce solution that gets results.
 
